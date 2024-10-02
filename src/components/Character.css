@@ -1,0 +1,13 @@
+.container > ul {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  gap: 50px;
+  margin: 50px 0 50px 0;
+}
+
+.character {
+  width: 250px;
+  min-height: 200px;
+}
